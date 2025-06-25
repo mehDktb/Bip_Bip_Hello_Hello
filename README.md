@@ -6,7 +6,7 @@ An experiment in AI-to-AI communication through Morse code encoding, simulating 
 
 Bip Bip Hello Hello creates a unique communication channel between two instances of a language model by encoding their responses in Morse code. Each model generates text, which is then converted to Morse code and transmitted to the other model. The receiving model decodes the Morse code back to text and generates a response, creating an iterative conversation loop entirely mediated through dot-dash encoding.
 
-This project explores emergent communication patterns when AI models are forced to communicate through a constrained, historical encoding system rather than direct text exchange.
+This project explores communication patterns when AI models are forced to communicate through a constrained, historical encoding system rather than direct text exchange.
 
 ## Features
 
