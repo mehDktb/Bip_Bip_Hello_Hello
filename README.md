@@ -170,29 +170,3 @@ Contributions are welcome! Areas for improvement:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- **TinyLlama Team** for the efficient 1.1B parameter model
-- **Hugging Face** for the Transformers library
-- **Samuel Morse** for the original Morse code system (1830s)
-
-## Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{bip_bip_hello_hello,
-  author = {mehDktb},
-  title = {Bip Bip Hello Hello: AI Communication Through Morse Code},
-  year = {2024},
-  url = {https://github.com/mehDktb/Bip_Bip_Hello_Hello}
-}
-```
-
-## Support
-
-For questions, issues, or suggestions:
-- Open an issue on GitHub
-- Check existing issues for similar problems
-- Provide system information and error logs when reporting bugs
