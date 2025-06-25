@@ -1,6 +1,6 @@
 # Bip Bip Hello Hello
 
-A novel experiment in AI-to-AI communication through Morse code encoding, simulating conversations between two language models.
+An experiment in AI-to-AI communication through Morse code encoding, simulating conversations between two language models.
 
 ## Overview
 
