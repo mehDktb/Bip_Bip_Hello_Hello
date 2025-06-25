@@ -1,0 +1,6 @@
+numpy==1.26.4
+pygame==2.6.1
+sentence-transformers==4.1.0
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.49.0
